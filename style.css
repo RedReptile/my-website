@@ -1,4 +1,8 @@
-.heading {
+body {
+    background-color: lightgrey;
+}
+
+h1 {
     color: blue;
     text-align: center;
 }
